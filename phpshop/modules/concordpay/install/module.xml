@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<module>
+    <version>1.0</version>
+    <name>ConcordPay</name>
+    <description>Оплата через платёжную систему ConcordPay</description>
+    <faqlink>https://concordpay.concord.ua/ru/modul-oplaty-dlia-cms-phpshop/</faqlink>
+    <category>payment</category>
+     <adminmenu>
+        <title>ConcordPay</title>
+        <capability>true</capability>
+         <podmenu>
+             <podmenu_name>Журнал операций</podmenu_name>
+             <podmenu_action>dir.concordpay</podmenu_action>
+         </podmenu>
+    </adminmenu>
+</module>

@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!README.md
+
+!/phpshop
+/phpshop/*
+
+!/phpshop/modules
+/phpshop/modules/*
+
+!/phpshop/modules/concordpay
